@@ -3,7 +3,7 @@ Mission To Mars
 
 Flask web application that scrapes various websites for data related to the Mars Mission and displays the information in a single HTML page.
 
-Scrapping
+-Scrapping
 NASA Mars News
 Script collects the latest News Title and Paragraph Text.
 JPL Mars Space Images - Featured Image
